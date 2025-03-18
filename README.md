@@ -22,5 +22,9 @@ Este proyecto ha sido elaborado por **Luz Angela Hidalgo**.
 1. Clonar el repositorio.
 2. Abrir el archivo `index.html` en el navegador.
 
+##plus
+
+se crea la página githubpage URL: *https://angela170591.github.io/challenger1/*
+
 ¡Disfruta del juego de amigo secreto!
 
